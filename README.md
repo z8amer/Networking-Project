@@ -114,5 +114,11 @@ February 23, 2026
 
 ## 🔗 Resources
 - [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/)
-- [Cloudflare DNS Guide](https://developers.cloudflare.com/dns/)
-- [NGINX Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
+- [Cloudflare DNS Guide](https://developers.cloudflare.com/dns/) 
+-[NGINX Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
+
+## 💰 Status: Stopped (Cost-Aware Design)
+
+The EC2 instance is **stopped** and the Elastic IP has been **released** to avoid idle charges. This was a deliberate choice as part of my learning curve understanding AWS architecture when to stop resources is just as important as launching them.
+
+The project is fully documented and can be relaunched in minutes. Contact me for a live demo.
